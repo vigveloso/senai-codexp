@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\bin\Debug\netcoreapp2.2\Cadastro Produtos Com For.deps.json
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\bin\Debug\netcoreapp2.2\Cadastro Produtos Com For.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\bin\Debug\netcoreapp2.2\Cadastro Produtos Com For.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\bin\Debug\netcoreapp2.2\Cadastro Produtos Com For.dll
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\bin\Debug\netcoreapp2.2\Cadastro Produtos Com For.pdb
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.dll
+C:\Users\FIC\Documents\C#\Cadastro Produtos Com For\obj\Debug\netcoreapp2.2\Cadastro Produtos Com For.pdb

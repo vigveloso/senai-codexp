@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Aula POO\bin\Debug\netcoreapp2.2\Aula POO.deps.json
+C:\Users\FIC\Documents\C#\Aula POO\bin\Debug\netcoreapp2.2\Aula POO.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Aula POO\bin\Debug\netcoreapp2.2\Aula POO.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Aula POO\bin\Debug\netcoreapp2.2\Aula POO.dll
+C:\Users\FIC\Documents\C#\Aula POO\bin\Debug\netcoreapp2.2\Aula POO.pdb
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.dll
+C:\Users\FIC\Documents\C#\Aula POO\obj\Debug\netcoreapp2.2\Aula POO.pdb

@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Exercicio Novo\bin\Debug\netcoreapp2.2\Exercicio Novo.deps.json
+C:\Users\FIC\Documents\C#\Exercicio Novo\bin\Debug\netcoreapp2.2\Exercicio Novo.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Exercicio Novo\bin\Debug\netcoreapp2.2\Exercicio Novo.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Exercicio Novo\bin\Debug\netcoreapp2.2\Exercicio Novo.dll
+C:\Users\FIC\Documents\C#\Exercicio Novo\bin\Debug\netcoreapp2.2\Exercicio Novo.pdb
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.dll
+C:\Users\FIC\Documents\C#\Exercicio Novo\obj\Debug\netcoreapp2.2\Exercicio Novo.pdb

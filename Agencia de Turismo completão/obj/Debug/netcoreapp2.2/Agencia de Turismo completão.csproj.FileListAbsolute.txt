@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\bin\Debug\netcoreapp2.2\Agencia de Turismo completão.deps.json
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\bin\Debug\netcoreapp2.2\Agencia de Turismo completão.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\bin\Debug\netcoreapp2.2\Agencia de Turismo completão.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\bin\Debug\netcoreapp2.2\Agencia de Turismo completão.dll
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\bin\Debug\netcoreapp2.2\Agencia de Turismo completão.pdb
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.dll
+C:\Users\FIC\Documents\C#\Agencia de Turismo completão\obj\Debug\netcoreapp2.2\Agencia de Turismo completão.pdb

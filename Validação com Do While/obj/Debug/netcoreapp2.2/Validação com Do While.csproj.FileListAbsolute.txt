@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Validação com Do While\bin\Debug\netcoreapp2.2\Validação com Do While.deps.json
+C:\Users\FIC\Documents\C#\Validação com Do While\bin\Debug\netcoreapp2.2\Validação com Do While.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Validação com Do While\bin\Debug\netcoreapp2.2\Validação com Do While.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Validação com Do While\bin\Debug\netcoreapp2.2\Validação com Do While.dll
+C:\Users\FIC\Documents\C#\Validação com Do While\bin\Debug\netcoreapp2.2\Validação com Do While.pdb
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.dll
+C:\Users\FIC\Documents\C#\Validação com Do While\obj\Debug\netcoreapp2.2\Validação com Do While.pdb

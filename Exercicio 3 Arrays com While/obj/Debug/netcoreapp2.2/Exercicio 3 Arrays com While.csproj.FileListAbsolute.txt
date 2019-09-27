@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\bin\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.deps.json
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\bin\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\bin\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\bin\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.dll
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\bin\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.pdb
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.dll
+C:\Users\FIC\Documents\C#\Exercicio 3 Arrays com While\obj\Debug\netcoreapp2.2\Exercicio 3 Arrays com While.pdb

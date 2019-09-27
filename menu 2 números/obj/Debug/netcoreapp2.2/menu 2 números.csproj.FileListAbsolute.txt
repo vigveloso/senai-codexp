@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\menu 2 números\bin\Debug\netcoreapp2.2\menu 2 números.deps.json
+C:\Users\FIC\Documents\C#\menu 2 números\bin\Debug\netcoreapp2.2\menu 2 números.runtimeconfig.json
+C:\Users\FIC\Documents\C#\menu 2 números\bin\Debug\netcoreapp2.2\menu 2 números.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\menu 2 números\bin\Debug\netcoreapp2.2\menu 2 números.dll
+C:\Users\FIC\Documents\C#\menu 2 números\bin\Debug\netcoreapp2.2\menu 2 números.pdb
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.dll
+C:\Users\FIC\Documents\C#\menu 2 números\obj\Debug\netcoreapp2.2\menu 2 números.pdb

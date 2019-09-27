@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Rodízio Veicular\bin\Debug\netcoreapp2.2\Rodízio Veicular.deps.json
+C:\Users\FIC\Documents\C#\Rodízio Veicular\bin\Debug\netcoreapp2.2\Rodízio Veicular.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Rodízio Veicular\bin\Debug\netcoreapp2.2\Rodízio Veicular.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Rodízio Veicular\bin\Debug\netcoreapp2.2\Rodízio Veicular.dll
+C:\Users\FIC\Documents\C#\Rodízio Veicular\bin\Debug\netcoreapp2.2\Rodízio Veicular.pdb
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.dll
+C:\Users\FIC\Documents\C#\Rodízio Veicular\obj\Debug\netcoreapp2.2\Rodízio Veicular.pdb

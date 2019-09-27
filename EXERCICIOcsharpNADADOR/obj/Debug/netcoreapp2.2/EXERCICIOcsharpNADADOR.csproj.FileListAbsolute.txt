@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\bin\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.deps.json
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\bin\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.runtimeconfig.json
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\bin\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.runtimeconfig.dev.json
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\bin\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.dll
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\bin\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.pdb
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.AssemblyInfo.cs
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.dll
+C:\Users\FIC\Documents\EXERCICIOcsharpNADADOR\obj\Debug\netcoreapp2.2\EXERCICIOcsharpNADADOR.pdb

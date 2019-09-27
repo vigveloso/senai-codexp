@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\impar ou par\bin\Debug\netcoreapp2.2\impar ou par.deps.json
+C:\Users\FIC\Documents\C#\impar ou par\bin\Debug\netcoreapp2.2\impar ou par.runtimeconfig.json
+C:\Users\FIC\Documents\C#\impar ou par\bin\Debug\netcoreapp2.2\impar ou par.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\impar ou par\bin\Debug\netcoreapp2.2\impar ou par.dll
+C:\Users\FIC\Documents\C#\impar ou par\bin\Debug\netcoreapp2.2\impar ou par.pdb
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.dll
+C:\Users\FIC\Documents\C#\impar ou par\obj\Debug\netcoreapp2.2\impar ou par.pdb

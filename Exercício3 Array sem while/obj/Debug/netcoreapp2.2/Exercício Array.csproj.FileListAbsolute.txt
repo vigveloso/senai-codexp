@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Exercício3 Array\bin\Debug\netcoreapp2.2\Exercício Array.deps.json
+C:\Users\FIC\Documents\C#\Exercício3 Array\bin\Debug\netcoreapp2.2\Exercício Array.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Exercício3 Array\bin\Debug\netcoreapp2.2\Exercício Array.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Exercício3 Array\bin\Debug\netcoreapp2.2\Exercício Array.dll
+C:\Users\FIC\Documents\C#\Exercício3 Array\bin\Debug\netcoreapp2.2\Exercício Array.pdb
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.dll
+C:\Users\FIC\Documents\C#\Exercício3 Array\obj\Debug\netcoreapp2.2\Exercício Array.pdb

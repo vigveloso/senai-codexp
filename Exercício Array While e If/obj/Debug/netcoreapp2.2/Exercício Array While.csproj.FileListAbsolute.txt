@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Exercício Array While\bin\Debug\netcoreapp2.2\Exercício Array While.deps.json
+C:\Users\FIC\Documents\C#\Exercício Array While\bin\Debug\netcoreapp2.2\Exercício Array While.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Exercício Array While\bin\Debug\netcoreapp2.2\Exercício Array While.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Exercício Array While\bin\Debug\netcoreapp2.2\Exercício Array While.dll
+C:\Users\FIC\Documents\C#\Exercício Array While\bin\Debug\netcoreapp2.2\Exercício Array While.pdb
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.dll
+C:\Users\FIC\Documents\C#\Exercício Array While\obj\Debug\netcoreapp2.2\Exercício Array While.pdb

@@ -1,0 +1,11 @@
+C:\Users\FIC\Documents\C#\Meia Entrada\bin\Debug\netcoreapp2.2\Meia Entrada.deps.json
+C:\Users\FIC\Documents\C#\Meia Entrada\bin\Debug\netcoreapp2.2\Meia Entrada.runtimeconfig.json
+C:\Users\FIC\Documents\C#\Meia Entrada\bin\Debug\netcoreapp2.2\Meia Entrada.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\Meia Entrada\bin\Debug\netcoreapp2.2\Meia Entrada.dll
+C:\Users\FIC\Documents\C#\Meia Entrada\bin\Debug\netcoreapp2.2\Meia Entrada.pdb
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.dll
+C:\Users\FIC\Documents\C#\Meia Entrada\obj\Debug\netcoreapp2.2\Meia Entrada.pdb

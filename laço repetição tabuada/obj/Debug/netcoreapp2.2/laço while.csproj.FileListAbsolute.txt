@@ -1,0 +1,22 @@
+C:\Users\FIC\Documents\C#\laço while\bin\Debug\netcoreapp2.2\laço while.deps.json
+C:\Users\FIC\Documents\C#\laço while\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.json
+C:\Users\FIC\Documents\C#\laço while\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\laço while\bin\Debug\netcoreapp2.2\laço while.dll
+C:\Users\FIC\Documents\C#\laço while\bin\Debug\netcoreapp2.2\laço while.pdb
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.dll
+C:\Users\FIC\Documents\C#\laço while\obj\Debug\netcoreapp2.2\laço while.pdb
+C:\Users\FIC\Documents\C#\laço repetição tabuada\bin\Debug\netcoreapp2.2\laço while.deps.json
+C:\Users\FIC\Documents\C#\laço repetição tabuada\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.json
+C:\Users\FIC\Documents\C#\laço repetição tabuada\bin\Debug\netcoreapp2.2\laço while.runtimeconfig.dev.json
+C:\Users\FIC\Documents\C#\laço repetição tabuada\bin\Debug\netcoreapp2.2\laço while.dll
+C:\Users\FIC\Documents\C#\laço repetição tabuada\bin\Debug\netcoreapp2.2\laço while.pdb
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.csprojAssemblyReference.cache
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.AssemblyInfo.cs
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.dll
+C:\Users\FIC\Documents\C#\laço repetição tabuada\obj\Debug\netcoreapp2.2\laço while.pdb
